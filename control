@@ -1,0 +1,9 @@
+Package: com.mtac.carflex
+Name: CarFlex
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show FLEX Explorer in CarPlay
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
